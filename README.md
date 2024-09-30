@@ -1,6 +1,6 @@
 # Used-Car-Price-Analysis-
 
-**Overview:**
+**Overview**
 
 This notebook analyzes the pricing patterns of used cars based on various factors such as age, mileage, brand, and other features. The goal is to explore trends in the used car market and use machine learning techniques to predict the price of a car given its characteristics. The project involves data exploration, feature engineering, model building, and evaluation to gain insights into the factors influencing used car prices.
 
