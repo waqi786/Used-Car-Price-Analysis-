@@ -5,7 +5,7 @@
 This notebook analyzes the pricing patterns of used cars based on various factors such as age, mileage, brand, and other features. The goal is to explore trends in the used car market and use machine learning techniques to predict the price of a car given its characteristics. The project involves data exploration, feature engineering, model building, and evaluation to gain insights into the factors influencing used car prices.
 
 
-**Key Features:**
+**Key Features**
 
 1. Data Exploration: In-depth analysis and visualization of the dataset to identify trends and patterns affecting car prices.
 2. Feature Engineering: Transformation and creation of new features to enhance model accuracy and performance.
